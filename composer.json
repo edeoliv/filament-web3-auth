@@ -1,6 +1,6 @@
 {
     "name": "geof-dev/filament-web3-auth",
-    "description": "Web3 wallet authentication plugin for Filament v4",
+    "description": "Web3 wallet authentication plugin for Filament",
     "keywords": [
         "laravel",
         "filament",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.0",
+        "filament/filament": "^4.0|^5.0",
         "kornrunner/keccak": "^1.1",
         "simplito/elliptic-php": "^1.0",
         "spatie/laravel-package-tools": "^1.16"
